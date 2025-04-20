@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b9675a-842b-468a-89eb-1f12afa9724c" name="Changes" comment="return" />
+    <list default="true" id="b4b9675a-842b-468a-89eb-1f12afa9724c" name="Changes" comment="Метод findSlash() для поиска символа '/'">
+      <change beforePath="$PROJECT_DIR$/src/task02_charcase/CharMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task02_charcase/CharMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="return" />
-    <option name="LAST_COMMIT_MESSAGE" value="return" />
+    <MESSAGE value="Метод findSlash() для поиска символа '/'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Метод findSlash() для поиска символа '/'" />
   </component>
 </project>
