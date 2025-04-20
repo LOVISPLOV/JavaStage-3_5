@@ -7,14 +7,14 @@ public class CharMain {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите символ: ");
-        char x = scanner.nextLine().charAt(0);
+        char a = scanner.nextLine().charAt(0);
 
         String vowels = "аеёиоуыэюяАЕЁИОУЫЭЮЯaeiouAEIOU";
 
-        if (vowels.indexOf(x) != -1) {
+        if (vowels.indexOf(a) != -1) {
             System.out.println("Гласная ");
 
-        } else if (Character.isLetter(x)) {
+        } else if (Character.isLetter(a)) {
             System.out.println("Согласная");
 
         } else {
