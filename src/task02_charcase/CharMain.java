@@ -19,7 +19,7 @@ public class CharMain {
         System.out.print("Введите строку: ");
         String userInput = scanner.nextLine();
 
-        int slashIndex = findSlash(userInput); // не забывать обьявить индекс
+        int slashIndex = findSlash(userInput);
 
         if (slashIndex != -1) {
             System.out.println("Индекс символа '/': " + slashIndex);
