@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b9675a-842b-468a-89eb-1f12afa9724c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-stage-3_5/task01_charcase/CharMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task02_charcase/CharMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task02_charcase/CharMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4b9675a-842b-468a-89eb-1f12afa9724c" name="Changes" comment="return" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1745079532036</updated>
     </task>
+    <task id="LOCAL-00001" summary="return">
+      <option name="closed" value="true" />
+      <created>1745172989920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745172989920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="return" />
+    <option name="LAST_COMMIT_MESSAGE" value="return" />
   </component>
 </project>
